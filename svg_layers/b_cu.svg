@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b_cu" xmlns="http://www.w3.org/2000/svg" width="81.28mm" height="128.5mm" viewBox="0 0 230.4 364.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1c75bc;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,0v364.25h230.4V0H0ZM114.36,159.3c-9.72-.47-17.21-8.74-16.74-18.45.48-9.72,8.74-17.21,18.46-16.73,9.72.47,17.21,8.73,16.73,18.45-.47,9.72-8.74,17.21-18.45,16.73Z"/>
+</svg>

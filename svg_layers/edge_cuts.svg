@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="edge_cuts" data-name="edge cuts" xmlns="http://www.w3.org/2000/svg" width="81.28mm" height="128.5mm" viewBox="0 0 230.4 364.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ee2a7b;
+        stroke-miterlimit: 10;
+        stroke-width: .1px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="180.46" cy="266.46" r="10.06"/>
+  <circle class="cls-1" cx="49.94" cy="266.46" r="10.06"/>
+  <circle class="cls-1" cx="82.57" cy="266.46" r="10.06"/>
+  <circle class="cls-1" cx="180.46" cy="311.38" r="10.06"/>
+  <circle class="cls-1" cx="147.83" cy="311.38" r="10.06"/>
+  <circle class="cls-1" cx="115.2" cy="266.46" r="10.06"/>
+  <circle class="cls-1" cx="115.2" cy="311.38" r="10.06"/>
+  <circle class="cls-1" cx="49.94" cy="311.38" r="10.06"/>
+  <circle class="cls-1" cx="17.31" cy="311.38" r="10.06"/>
+  <circle class="cls-1" cx="82.57" cy="311.38" r="10.06"/>
+  <circle class="cls-1" cx="17.31" cy="266.46" r="10.06"/>
+  <circle class="cls-1" cx="115.2" cy="141.81" r="8.65" transform="translate(-26.75 256.84) rotate(-89.93)"/>
+  <circle class="cls-1" cx="23.88" cy="234.14" r="9.92" transform="translate(-210.3 257.69) rotate(-89.92)"/>
+  <circle id="LED8" class="cls-1" cx="58.51" cy="47.12" r="4.11"/>
+  <circle id="LED7" class="cls-1" cx="81.18" cy="47.12" r="4.11"/>
+  <circle id="LED6" class="cls-1" cx="103.86" cy="47.12" r="4.11"/>
+  <circle id="LED5" class="cls-1" cx="126.54" cy="47.12" r="4.11"/>
+  <circle id="LED4" class="cls-1" cx="149.22" cy="47.12" r="4.11"/>
+  <circle id="LED3" class="cls-1" cx="171.89" cy="47.12" r="4.11"/>
+  <circle id="LED2" class="cls-1" cx="194.57" cy="47.12" r="4.11"/>
+  <circle id="LED1" class="cls-1" cx="35.83" cy="47.12" r="4.11"/>
+  <rect class="cls-1" x="11.56" y="4.25" width="17.01" height="8.79" rx="2.55" ry="2.55"/>
+  <rect class="cls-1" x="201.84" y="4.25" width="17.01" height="8.79" rx="2.55" ry="2.55"/>
+  <rect class="cls-1" x="201.84" y="351.21" width="17.01" height="8.79" rx="2.55" ry="2.55"/>
+  <rect class="cls-1" x="11.56" y="351.21" width="17.01" height="8.79" rx="2.55" ry="2.55"/>
+  <circle class="cls-1" cx="74.32" cy="175.75" r="10.06"/>
+  <circle class="cls-1" cx="74.32" cy="96.38" r="10.06"/>
+  <circle class="cls-1" cx="156.08" cy="96.38" r="10.06"/>
+  <circle class="cls-1" cx="203.81" cy="96.38" r="10.06"/>
+  <circle class="cls-1" cx="156.08" cy="175.75" r="10.06"/>
+  <circle class="cls-1" cx="203.81" cy="175.75" r="10.06"/>
+  <circle class="cls-1" cx="26.59" cy="175.75" r="10.06"/>
+  <circle class="cls-1" cx="76.54" cy="231.94" r="8.65"/>
+  <circle class="cls-1" cx="102.31" cy="231.94" r="8.65"/>
+  <circle class="cls-1" cx="128.09" cy="231.94" r="8.65"/>
+  <circle class="cls-1" cx="153.86" cy="231.94" r="8.65"/>
+  <circle class="cls-1" cx="213.09" cy="311.38" r="10.06"/>
+  <circle class="cls-1" cx="147.83" cy="266.46" r="9.92" transform="translate(-118.84 413.91) rotate(-89.92)"/>
+  <circle class="cls-1" cx="213.09" cy="266.46" r="10.06"/>
+  <circle class="cls-1" cx="206.5" cy="234.14" r="9.92" transform="translate(-28.75 439.38) rotate(-89.69)"/>
+  <rect class="cls-1" width="230.4" height="364.25"/>
+  <circle class="cls-1" cx="26.59" cy="96.38" r="10.06"/>
+  <rect class="cls-1" x="95.78" y="186.83" width="38.83" height="20.69" rx="3.3" ry="3.3"/>
+</svg>
